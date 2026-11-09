@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "FRAP Batch Analysis"
+type: software
+authors:
+  - family-names: Chen
+    given-names: Yin-Quan
+version: 1.0.1
+date-released: 2026-11-09
+repository-code: https://github.com/YQC12/FRAP-Batch-Analysis
+doi: 10.5281/zenodo.24073209
